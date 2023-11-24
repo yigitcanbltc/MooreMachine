@@ -1,0 +1,17 @@
+C:\Users\yigit\Desktop\VS_OpenGL\Projects\MooreMachine\bin\Debug\net6.0-windows\MooreMachine.exe
+C:\Users\yigit\Desktop\VS_OpenGL\Projects\MooreMachine\bin\Debug\net6.0-windows\MooreMachine.deps.json
+C:\Users\yigit\Desktop\VS_OpenGL\Projects\MooreMachine\bin\Debug\net6.0-windows\MooreMachine.runtimeconfig.json
+C:\Users\yigit\Desktop\VS_OpenGL\Projects\MooreMachine\bin\Debug\net6.0-windows\MooreMachine.dll
+C:\Users\yigit\Desktop\VS_OpenGL\Projects\MooreMachine\bin\Debug\net6.0-windows\MooreMachine.pdb
+C:\Users\yigit\Desktop\VS_OpenGL\Projects\MooreMachine\obj\Debug\net6.0-windows\MooreMachine.Form1.resources
+C:\Users\yigit\Desktop\VS_OpenGL\Projects\MooreMachine\obj\Debug\net6.0-windows\MooreMachine.Form2.resources
+C:\Users\yigit\Desktop\VS_OpenGL\Projects\MooreMachine\obj\Debug\net6.0-windows\MooreMachine.csproj.GenerateResource.cache
+C:\Users\yigit\Desktop\VS_OpenGL\Projects\MooreMachine\obj\Debug\net6.0-windows\MooreMachine.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\yigit\Desktop\VS_OpenGL\Projects\MooreMachine\obj\Debug\net6.0-windows\MooreMachine.AssemblyInfoInputs.cache
+C:\Users\yigit\Desktop\VS_OpenGL\Projects\MooreMachine\obj\Debug\net6.0-windows\MooreMachine.AssemblyInfo.cs
+C:\Users\yigit\Desktop\VS_OpenGL\Projects\MooreMachine\obj\Debug\net6.0-windows\MooreMachine.csproj.CoreCompileInputs.cache
+C:\Users\yigit\Desktop\VS_OpenGL\Projects\MooreMachine\obj\Debug\net6.0-windows\MooreMachine.dll
+C:\Users\yigit\Desktop\VS_OpenGL\Projects\MooreMachine\obj\Debug\net6.0-windows\refint\MooreMachine.dll
+C:\Users\yigit\Desktop\VS_OpenGL\Projects\MooreMachine\obj\Debug\net6.0-windows\MooreMachine.pdb
+C:\Users\yigit\Desktop\VS_OpenGL\Projects\MooreMachine\obj\Debug\net6.0-windows\MooreMachine.genruntimeconfig.cache
+C:\Users\yigit\Desktop\VS_OpenGL\Projects\MooreMachine\obj\Debug\net6.0-windows\ref\MooreMachine.dll
